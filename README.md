@@ -1,1 +1,17 @@
-# Religiousfreeomscrapper
+# Religious freeom scrapper
+
+This is Jeeves.  I made him to automate the religious freedom and business foundations research on the outward focus of fortune 500 companies.
+The think was that any prospective employee would be visiting a companies diveristy and inclusion webpage if they had any concerns about being fairly treated by this company.  This is where every fortune 500 company makes their stance to assure members of a protected class that tehy will be fairly treated.  The thinking of the research was that the frequnecy of which the companies spoke about various talks would reveal their internal stance towards those groups.
+
+The intention was to test the belief that religion and members of religious groups are increasingly finding themselves estranged from corporate dogma.
+Many finding themselves wanting to contribute and be apart of the organizations mission but un willing to commit their talents and abilities to an organization that would not respect their beliefs nor make them feel like an unwelcome outsider in their operations.  Just as any member of an organization operates on their beliefs of how the world should work and what will make it a better place so too is any person of faith driven by those same beliefs.  Their beliefs and their identity is as important to them as it is to anyone one else, and increasingly many persons of faith feel that respect for their beliefs may not be supported by company policy, things like respecting dietary restrictions or abstentions, or encouraging respect for anothers beliefs in corperate enviroments coming into question.
+
+Most members of faith just want to be left alone and allowed to act out of consience according to their beliefs, and be allowed to do so in work.  
+
+The intent of this research is merely to show corporations that in the pursuit of some admirable goals religion and the religious may increasingly be being excluded from the public square.  As one who has watched apples dwindling stance towards religion from their diverstiy and inclusion page the process is real.  At first only beliefs being breifly mention a single time on apple's page and not regretably not being present at all, for members of faith this is an alarming trend, just as it would be for any minority group or protected class.  To see their consideration solve being elimated from their corperate sphere is cause for concern and for corrective action.  
+
+Jeeves was built merely to reduce the amount of time it takes to gather this information from a 6 month project of visiting site after site to a script gathering information from 95% of foturne 500 companies in just under 4 hours.
+
+The scrapper googles each company name with the term diversity and inclusion, takes the first result, resquest the text from it and then counts up the number of times each protected class is mentioned within the page using a list of terms.  Each total is then stored a CSV.  
+
+Admittedly these pages can be considered to be only lip service but when a class is not even recieving that it is a cause for concern.  As these pages can serve as the basis for a reflection of company policy and even a statement of company intent for the future this raises a concern for the religious, for example what if there regrettably at any time for there to be some conflict with company actions and personal religious beliefs of an individual should there not be a means for the company to respect the individual's right to abstain from actions they consider in any way ill advised?  And should not a company respect the language used by any of its members to express their concerns? Be it religious in origin or vulgar?  The latter certianly seems to be gaining momentum.  
