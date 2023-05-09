@@ -1,0 +1,501 @@
+Unnamed: 0,URLS,Race,Gender,Disability,SOGI,Military,Age,Family,Religion,Company_Name
+0,https://corporate.walmart.com/purpose/culture-diversity-equity-inclusion,3.0,3.0,4.0,0.0,0.0,6.0,1.0,0.0,Walmart
+1,https://www.aboutamazon.com/workplace/diversity-inclusion,8.0,7.0,4.0,0.0,18.0,3.0,4.0,0.0,Amazon
+2,https://www.apple.com/diversity/,71.0,40.0,9.0,6.0,3.0,14.0,0.0,0.0,Apple
+3,https://www.cvshealth.com/about-cvs-health/diversity,2.0,2.0,1.0,0.0,4.0,1.0,3.0,0.0,CVS Health
+4,https://careers.unitedhealthgroup.com/culture/inclusion-and-diversity/,7.0,9.0,5.0,4.0,0.0,5.0,8.0,0.0,UnitedHealth Group
+5,https://corporate.exxonmobil.com/locations/brazil/inclusion-and-diversity,3.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,Exxon Mobil
+6,https://www.brkenergy.com/about-us/careers/diversity-equity-inclusion,0.0,0.0,0.0,0.0,4.0,1.0,2.0,0.0,Berkshire Hathaway
+7,https://www.globaldata.com/data-insights/technology-media-and-telecom/alphabet-workforce-diversity-and-inclusion-2091198/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Alphabet
+8,https://www.mckesson.com/About-McKesson/Impact/Inclusion-and-Diversity/,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,McKesson
+9,https://www.amerisourcebergen.com/about-us/diversity-and-inclusion,16.0,3.0,1.0,1.0,4.0,3.0,1.0,0.0,AmerisourceBergen
+10,https://www.costco.com/inclusion.html,1.0,11.0,0.0,1.0,0.0,1.0,9.0,0.0,Costco Wholesale
+11,https://www.cigna.com/about-us/corporate-responsibility/diversity-and-inclusion/,5.0,3.0,2.0,1.0,1.0,5.0,5.0,0.0,Cigna
+12,https://about.att.com/pages/diversity,15.0,1.0,1.0,2.0,3.0,2.0,1.0,0.0,AT&T
+13,https://www.microsoft.com/en-us/diversity/default.aspx,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Microsoft
+14,https://www.cardinalhealth.com/en/about-us/our-people/diversity-and-inclusion.html,33.0,5.0,1.0,2.0,0.0,5.0,0.0,0.0,Cardinal Health
+15,https://www.chevron.com/sustainability/social/diversity-inclusion,22.0,16.0,6.0,10.0,0.0,3.0,4.0,1.0,Chevron
+16,https://careers.homedepot.com/culture/,1.0,1.0,0.0,0.0,2.0,1.0,6.0,0.0,Home Depot
+17,https://www.walgreensbootsalliance.com/about-us/diversity-equity-and-inclusion,1.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0,Walgreens Boots Alliance
+18,https://www.marathonpetroleum.com/Sustainability/Diversity-Equity-and-Inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Marathon Petroleum
+19,https://www.elevancehealth.com/who-we-are/diversity-equity-and-inclusion,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Elevance Health
+20,https://ir.kroger.com/CorporateProfile/press-releases/press-release/2020/Kroger-Announces-Framework-for-Action-Diversity-Equity--Inclusion-Plan-to-Uplift-Associates-Customers-and-Communities/default.aspx,20.0,4.0,1.0,1.0,2.0,6.0,5.0,1.0,Kroger
+21,https://corporate.ford.com/careers/inclusive-hiring/diversity.html,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,Ford Motor
+22,https://www.verizon.com/about/our-company/diversity-and-inclusion,7.0,2.0,0.0,0.0,1.0,2.0,2.0,0.0,Verizon Communications
+23,https://www.jpmorganchase.com/about/people-culture/diversity-and-inclusion,30.0,5.0,8.0,4.0,6.0,0.0,1.0,0.0,JPMorgan Chase
+24,https://www.gmsustainability.com/priorities/developing-talented-people/diversity-equity-and-inclusion.html,10.0,2.0,1.0,0.0,0.0,3.0,0.0,0.0,General Motors
+25,https://www.centene.com/who-we-are/diversity-equity-and-inclusion.html,2.0,2.0,4.0,0.0,2.0,0.0,0.0,0.0,Centene
+26,https://about.fb.com/news/tag/diversity-and-inclusion/,12.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,Meta Platforms
+27,https://corporate.comcast.com/impact/diversity-equity-inclusion,12.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,Comcast
+28,https://phillips66.jobs/inclusion-diversity/,3.0,5.0,1.0,2.0,3.0,0.0,0.0,1.0,Phillips 66
+29,https://www.valero.com/careers/working-valero/diversity-inclusion,0.0,12.0,0.0,0.0,3.0,0.0,2.0,0.0,Valero Energy
+30,https://jobs.dell.com/diversity-and-inclusion,6.0,4.0,6.0,9.0,5.0,0.0,4.0,1.0,Dell Technologies
+31,https://corporate.target.com/sustainability-esg/diversity-equity-inclusion,12.0,2.0,0.0,0.0,2.0,2.0,2.0,1.0,Target
+32,https://www.fanniemae.com/about-us/who-we-are/diversity-and-inclusion,2.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,Fannie Mae
+33,https://about.ups.com/ae/en/social-impact/diversity-equity-and-inclusion.html,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,United Parcel Service
+34,https://talent.lowes.com/us/en/diversity-inclusion,4.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,Lowe's
+35,https://about.bankofamerica.com/en/working-here/diversity-inclusion,10.0,3.0,1.0,1.0,4.0,4.0,0.0,0.0,Bank of America
+36,https://www.jnj.com/about-jnj/diversity,17.0,10.0,4.0,1.0,4.0,1.0,6.0,1.0,Johnson & Johnson
+37,https://www.adm.com/en-us/culture-and-careers/diversity-equity-inclusion/,1.0,0.0,0.0,2.0,0.0,1.0,2.0,0.0,Archer Daniels Midland
+38,https://www.fedex.com/en-us/about/diversity-inclusion.html,8.0,11.0,0.0,2.0,4.0,17.0,17.0,2.0,FedEx
+39,https://www.humana.com/about/impact/individual/inclusion-diversity,7.0,4.0,1.0,0.0,0.0,2.0,3.0,0.0,Humana
+40,https://www.wellsfargo.com/about/diversity/diversity-and-inclusion/,7.0,6.0,0.0,0.0,3.0,1.0,1.0,0.0,Wells Fargo
+41,https://www.statefarm.com/about-us/diversity-inclusion,11.0,15.0,3.0,1.0,3.0,3.0,4.0,0.0,State Farm Insurance
+42,https://www.pfizer.com/about/responsibility/diversity-and-inclusion,8.0,4.0,2.0,0.0,3.0,2.0,0.0,0.0,Pfizer
+43,https://www.citigroup.com/citi/diversity/,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Citigroup
+44,https://pepsico.com/our-impact/diversity-equity-and-inclusion,3.0,1.0,2.0,0.0,1.0,2.0,1.0,0.0,PepsiCo
+45,https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html,10.0,4.0,4.0,2.0,1.0,3.0,2.0,1.0,Intel
+46,https://us.pg.com/equality-and-inclusion/,4.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,Procter & Gamble
+47,https://www.ge.com/about-us/diversity,54.0,5.0,1.0,4.0,9.0,1.0,1.0,0.0,General Electric
+48,https://www.ibm.com/impact/be-equal/,7.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,International Business Machines
+49,https://www.metlife.com/about-us/global-diversity-equity-inclusion/,0.0,0.0,2.0,0.0,0.0,0.0,3.0,0.0,MetLife
+50,https://www.prudential.com/links/about/diversity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Prudential Financial
+51,https://www.albertsonscompanies.com/our-impact/people/diversity-equity-inclusion/default.aspx,5.0,2.0,1.0,1.0,1.0,1.0,1.0,0.0,Albertsons
+52,https://impact.disney.com/diversity-inclusion/,7.0,2.0,0.0,0.0,1.0,2.0,0.0,0.0,Walt Disney
+53,https://www.energytransfer.com/corporate-responsibility/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Energy Transfer
+54,https://www.lockheedmartin.com/en-us/who-we-are/global-diversity-inclusion.html,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,Lockheed Martin
+55,https://www.freddiemac.com/about/diversity,10.0,5.0,0.0,0.0,0.0,1.0,6.0,0.0,Freddie Mac
+56,https://www.goldmansachs.com/our-commitments/diversity-and-inclusion/,22.0,20.0,1.0,4.0,1.0,6.0,2.0,1.0,Goldman Sachs Group
+57,https://www.rtx.com/social-impact/diversity-equity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Raytheon Technologies
+58,https://www.hp.com/us-en/hp-information/about-hp/diversity.html,6.0,9.0,5.0,1.0,5.0,2.0,6.0,0.0,HP
+59,https://www.boeing.com/principles/diversity-and-inclusion/,8.0,0.0,12.0,3.0,7.0,5.0,8.0,0.0,Boeing
+60,https://www.morganstanley.com/about-us/diversity,8.0,4.0,0.0,2.0,0.0,4.0,0.0,1.0,Morgan Stanley
+61,https://hcahealthcare.com/about/diversity-equity-and-inclusion/,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HCA Healthcare
+62,https://www.abbvie.com/our-company/equality-inclusion-diversity.html,5.0,1.0,3.0,3.0,0.0,0.0,1.0,0.0,AbbVie
+63,https://corporate.dow.com/en-us/about/company/beliefs-and-culture/inclusion-and-diversity.html,14.0,5.0,2.0,5.0,1.0,8.0,0.0,1.0,Dow
+64,https://www.tesla.com/sites/default/files/downloads/2020-DEI-impact-report.pdf,43.0,10.0,3.0,4.0,7.0,3.0,2.0,0.0,Tesla
+65,https://www.allstatesustainability.com/people/inclusive-diversity-and-equity/,26.0,10.0,4.0,2.0,4.0,8.0,1.0,1.0,Allstate
+66,https://www.aig.com/about-us/diversity-equity-and-inclusion,7.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,American International Group
+67,https://corporate.bestbuy.com/diversity-and-inclusion/,7.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,Best Buy
+68,https://corporate.charter.com/diversity-inclusion,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Charter Communications
+69,https://www.sysco.com/About/Our-People/Diversity-and-Inclusion.html,8.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,Sysco
+70,https://www.merck.com/company-overview/diversity-and-inclusion/,7.0,3.0,5.0,2.0,0.0,1.0,0.0,1.0,Merck
+71,https://www.newyorklife.com/careers/our-culture/diversity-and-inclusion,30.0,0.0,3.0,3.0,3.0,9.0,4.0,0.0,New York Life Insurance
+72,https://www.caterpillar.com/en/careers/why-caterpillar/diversity-inclusion.html,30.0,0.0,3.0,3.0,3.0,9.0,4.0,0.0,Caterpillar
+73,https://www.cisco.com/c/en/us/about/inclusion-diversity.html,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,Cisco Systems
+74,https://www.tjx.com/responsibility/workplace/inclusion-and-diversity,30.0,8.0,1.0,3.0,0.0,4.0,2.0,0.0,TJX
+75,https://corporate.publix.com/about-publix/culture/committed-to-diversity,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Publix Super Markets
+76,https://www.conocophillips.com/about-us/people/diversity-inclusion/,7.0,3.0,0.0,2.0,3.0,1.0,0.0,0.0,ConocoPhillips
+77,https://www.libertymutualgroup.com/about-lm/corporate-information/diversity-equity-inclusion/our-commitment,3.0,2.0,1.0,1.0,4.0,0.0,0.0,0.0,Liberty Mutual Insurance Group
+78,https://www.progressive.com/about/diversity-and-inclusion/,20.0,13.0,1.0,1.0,1.0,6.0,5.0,0.0,Progressive
+79,https://www.nationwide.com/personal/about-us/diversity-equity-inclusion/,5.0,1.0,0.0,0.0,0.0,3.0,2.0,0.0,Nationwide
+80,https://www.tysonfoods.com/who-we-are/our-people/inclusion-diversity,15.0,1.0,7.0,1.0,7.0,0.0,0.0,3.0,Tyson Foods
+81,https://www.bms.com/about-us/global-diversity-and-inclusion.html,16.0,1.0,0.0,4.0,0.0,2.0,0.0,0.0,Bristol-Myers Squibb
+82,https://www.deere.com/en/our-company/john-deere-careers/benefits/diversity/,5.0,2.0,1.0,1.0,3.0,1.0,8.0,0.0,Nike
+83,https://www.americanexpress.com/us/company/global-diversity-and-inclusion.html,7.0,10.0,2.0,3.0,0.0,3.0,0.0,2.0,Deere
+84,https://www.abbott.com/careers/diversity-and-inclusion.html,19.0,6.0,0.0,2.0,4.0,2.0,4.0,0.0,American Express
+85,https://www.stonex.com/featured-insights/webinarsvideos/perspectives-on-social-impact-diversity--inclusion/,0.0,2.0,2.0,0.0,1.0,0.0,3.0,0.0,Abbott Laboratories
+86,https://www.plains.com/sustainability/our-people,2.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,StoneX Group
+87,https://www.enterpriseproducts.com/careers/diversity-inclusion/,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Plains GP Holdings
+88,https://www.tiaa.org/public/about-tiaa/diversity-inclusion,13.0,9.0,0.0,1.0,3.0,4.0,5.0,0.0,Enterprise Products Partners
+89,https://www.oracle.com/corporate/careers/diversity-inclusion/,,,,,,,,,TIAA
+90,https://corporate.thermofisher.com/content/tfcorpsite/us/en/index/corporate-social-responsibility/colleagues/diversity-and-inclusion.html,11.0,5.0,1.0,2.0,3.0,0.0,1.0,0.0,Oracle
+91,https://www.coca-colacompany.com/social-impact/diversity-and-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Thermo Fisher Scientific
+92,https://www.gd.com/careers/diversity,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Coca-Cola
+93,https://jobs.chsinc.com/inclusion-diversity,1.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,General Dynamics
+94,https://www.usaa.com/inet/wc/about_usaa_corporate_diversity_main,11.0,4.0,1.0,3.0,11.0,2.0,3.0,0.0,CHS
+95,https://www.northwesternmutual.com/our-commitment-to-diversity/,0.0,1.0,5.0,0.0,0.0,0.0,2.0,0.0,USAA
+96,https://assets.ctfassets.net/aax1cfbwhqog/72htemxdQ7g2pppxbheRFd/dcb8018e3ae7754cfc111c2536a9baf8/Nucor-s_Commitment_to_Diversity_Equity_and_Inclusion.pdf,14.0,4.0,0.0,0.0,0.0,4.0,2.0,0.0,Northwestern Mutual
+97,https://www.exeloncorp.com/diversity-equity-inclusion,7.0,3.0,2.0,0.0,0.0,5.0,0.0,1.0,Nucor
+98,https://www.massmutual.com/sustainability/diversity-equity-and-inclusion,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Exelon
+99,https://www.northropgrumman.com/sustainability/diversity-equity-and-inclusion/,6.0,5.0,1.0,1.0,2.0,1.0,4.0,0.0,Massachusetts Mutual Life Insurance
+100,https://www.3m.com/3M/en_US/sustainability-us/social/diversity-equity-and-inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Northrop Grumman
+101,https://www.travelers.com/about-travelers/diversity,7.0,0.0,4.0,1.0,2.0,4.0,3.0,0.0,3M
+102,https://careers.arrow.com/us/en/diversity-equality-and-inclusion,2.0,0.0,2.0,0.0,2.0,0.0,1.0,0.0,Travelers
+103,https://www.honeywell.com/us/en/company/inclusion-and-diversity,11.0,1.0,0.0,2.0,1.0,0.0,1.0,0.0,Arrow Electronics
+104,https://careers.dollargeneral.com/diversity-inclusion/,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Honeywell International
+105,https://www.qualcomm.com/company/corporate-responsibility/our-people/inclusion-diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Dollar General
+106,https://www.capitalone.com/diversity/,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,Qualcomm
+107,https://www.synnexcorp.com/careers/diversity-equity-inclusion/,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Capital One Financial
+108,https://www.pmi.com/inclusion-diversity,1.0,12.0,1.0,4.0,0.0,2.0,0.0,0.0,TD Synnex
+109,https://www.wfscorp.com/en/Careers/Equal-Employment-Opportunity-Statement,2.0,2.0,0.0,0.0,4.0,1.0,0.0,1.0,Philip Morris International
+110,https://investors.pfgc.com/press-releases/press-release-details/2021/Performance-Food-Group-Company-Announces-Addition-of-Vice-President-of-Diversity--Inclusion/default.aspx,1.0,0.0,0.0,0.0,1.0,2.0,3.0,0.0,World Fuel Services
+111,https://www.delta.com/us/en/about-delta/diversity,13.0,8.0,3.0,5.0,6.0,3.0,2.0,0.0,Performance Food Group
+112,https://www.aa.com/i18n/customer-service/about-us/diversity/inclusion-and-diversity.jsp,0.0,0.0,19.0,0.0,0.0,0.0,1.0,1.0,Delta Air Lines
+113,https://about.netflix.com/en/inclusion,4.0,1.0,17.0,0.0,0.0,1.0,0.0,0.0,American Airlines Group
+114,https://www.paramount.com/inclusion-2021/introduction,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Netflix
+115,https://www.usfoods.com/about-us-foods/diversity-and-inclusion.html,3.0,4.0,2.0,1.0,0.0,3.0,0.0,1.0,Paramount Global
+116,https://www.danaher.com/who-we-are/diversity-inclusion,3.0,4.0,2.0,1.0,0.0,3.0,0.0,1.0,US Foods Holding
+117,https://www.jabil.com/about-us/culture/we-are-jabil/diversity-equity-inclusion.html,8.0,17.0,7.0,5.0,7.0,11.0,5.0,1.0,Danaher
+118,https://stories.starbucks.com/stories/inclusion-diversity/,9.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,Jabil
+119,https://www.mondelezinternational.com/About-Us/Diversity-Equity-and-Inclusion,9.0,21.0,0.0,0.0,0.0,2.0,0.0,0.0,Starbucks
+120,https://www.lilly.com/impact/empowering-a-diverse-workforce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Mondelez International
+121,https://www.hpe.com/us/en/about/diversity.html,6.0,6.0,1.0,1.0,0.0,0.0,0.0,0.0,Eli Lilly
+122,https://investor.drhorton.com/~/media/Files/D/D-R-Horton-IR/documents/human-rights-policy-final.pdf,,,,,,,,,Hewlett Packard Enterprise
+123,https://www.molinahealthcare.com/members/common/en-us/supplier-diversity.aspx,2.0,1.0,5.0,2.0,2.0,0.0,2.0,0.0,D.R. Horton
+124,https://www.cbre.com/careers/diversity-equity-and-inclusion,1.0,5.0,0.0,1.0,1.0,1.0,0.0,0.0,Molina Healthcare
+125,https://www.micron.com/about/our-commitment/empowering-people/diversity-equality-and-inclusion,16.0,6.0,0.0,3.0,1.0,3.0,1.0,0.0,CBRE Group
+126,https://www.broadcom.com/company/citizenship/workforce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Micron Technology
+127,https://www.gilead.com/purpose/inclusion-and-diversity,30.0,14.0,1.0,14.0,3.0,7.0,4.0,0.0,Broadcom
+128,https://www.pbfenergy.com/corporate-citizenship/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Gilead Sciences
+129,https://investors.lennar.com/~/media/Files/L/Lennar-IR-V3/documents/governance-documents/lennar-2022-social-responsibility-report.pdf,,,,,,,,,PBF Energy
+130,https://betterforall.unfi.com/social/diversity-inclusion.html,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,Lennar
+131,https://www.nrg.com/about/diversity-equity-and-inclusion.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,United Natural Foods
+132,https://www.nvidia.com/en-us/about-nvidia/careers/diversity-and-inclusion/,11.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,NRG Energy
+133,https://www.oxy.com/about/our-DEI-commitment/,5.0,6.0,0.0,0.0,0.0,11.0,4.0,0.0,Nvidia
+134,https://www.salesforce.com/company/equality/,42.0,15.0,3.0,4.0,0.0,1.0,1.0,0.0,Occidental Petroleum
+135,https://corporate.dollartree.com/values/equality-belonging-dei,7.0,9.0,1.0,5.0,0.0,2.0,5.0,0.0,Salesforce
+136,https://www.kkr.com/our-firm/life-kkr/commitment-diversity,7.0,9.0,0.0,1.0,6.0,4.0,2.0,0.0,Dollar Tree
+137,https://www.kraftheinzcompany.com/diversity-inclusion.html,17.0,29.0,2.0,13.0,0.0,8.0,3.0,2.0,KKR
+138,https://www.amgen.com/responsibility/healthy-society/diversity-and-inclusion,4.0,0.0,1.0,2.0,1.0,3.0,0.0,0.0,Kraft Heinz
+139,https://www.autonation.com/our-purpose/one-autonation,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Amgen
+140,https://www.gopenske.com/our-company/diversity-and-inclusion,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,AutoNation
+141,https://about.pypl.com/how-we-work/diversity-and-inclusion/,14.0,12.0,2.0,3.0,2.0,2.0,0.0,1.0,Penske Automotive Group
+142,https://www.macysinc.com/news-media/press-releases/detail/1576/macys-inc-creates-bold-vision-to-advance-diversity-and,5.0,1.0,1.0,0.0,0.0,3.0,0.0,0.0,PayPal Holdings
+143,https://www.duke-energy.com/our-company/about-us/diversity,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Macy's
+144,https://www.united.com/ual/en/us/fly/company/global-citizenship/diversity.html,0.0,4.0,3.0,3.0,2.0,0.0,1.0,0.0,Duke Energy
+145,https://usa.visa.com/about-visa/diversity-inclusion.html,10.0,6.0,2.0,1.0,0.0,0.0,0.0,0.0,United Airlines Holdings
+146,https://www.riteaid.com/about-us/diversity-equity-inclusion,0.0,0.0,1.0,0.0,0.0,1.0,3.0,0.0,Visa
+147,https://www.cummins.com/company/esg/social/diversity,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,Rite Aid
+148,https://www.usbank.com/about-us-bank/diversity.html,3.0,0.0,0.0,1.0,0.0,1.0,9.0,0.0,Cummins
+149,https://jobs.paccar.com/content/Diversity-and-Inclusion/?locale=en_US,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,U.S. Bancorp
+150,https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact/jobs-inclusion-and-empowerment/diversity-and-inclusion.html,44.0,19.0,1.0,7.0,0.0,6.0,6.0,1.0,Paccar
+151,https://www.southerncompany.com/our-community/diversity.html,2.0,1.0,0.0,0.0,3.0,1.0,0.0,0.0,McDonald's
+152,https://www.chrobinson.com/en-us/about-us/corporate-responsibility/diversity-inclusion/,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Southern
+153,https://www.truist.com/who-we-are/diversity-equity-inclusion,12.0,4.0,0.0,0.0,0.0,3.0,2.0,0.0,C.H. Robinson Worldwide
+154,https://www.appliedmaterials.com/us/en/careers/inclusion.html,3.0,2.0,0.0,0.0,0.0,1.0,3.0,0.0,Truist Financial
+155,https://fcx.com/sustainability/people/inclusion_diversity,13.0,14.0,0.0,1.0,0.0,1.0,3.0,0.0,Applied Materials
+156,https://www.comparably.com/companies/lithia-motors/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Freeport-McMoRan
+157,https://www.blackstone.com/careers/diversity-equity-inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lithia Motors
+158,https://www.thehartford.com/about-us/corporate-diversity,0.0,3.0,2.0,1.0,0.0,2.0,7.0,0.0,Blackstone
+159,https://www.aflac.com/brokers/resources/articles/diversity-equity-and-inclusion-are-the-aflac-way.aspx,8.0,13.0,2.0,0.0,0.0,1.0,4.0,0.0,Hartford Financial Services Group
+160,https://www.whirlpoolcorp.com/inclusion-diversity/,24.0,11.0,1.0,2.0,2.0,4.0,3.0,0.0,Aflac
+161,https://www.up.com/aboutup/corporate_info/diversity/index.htm,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Whirlpool
+162,https://www.internationalpaper.com/careers/diversity-inclusion,10.0,2.0,0.0,1.0,0.0,3.0,1.0,2.0,Union Pacific
+163,https://www.altria.com/people-and-careers/our-people-and-communities/inclusion-diversity-and-equity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,International Paper
+164,https://www.cdw.com/content/cdw/en/about/overview/diversity-and-inclusion.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Altria Group
+165,https://www.manpowergroup.com/sustainability/diversity,16.0,13.0,1.0,1.0,0.0,4.0,0.0,0.0,CDW
+166,https://www.pge.com/en_US/about-pge/company-information/diversity-and-inclusion/diversity-and-inclusion.page,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,ManpowerGroup
+167,https://www.corporate.carrier.com/news/stories/stories-articles/carrier_launches_new_diversity_and_inclusion_brand.html,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,PG&E
+168,https://www.bakerhughes.com/company/corporate-responsibility/people/diversity-equity-and-inclusion,4.0,5.0,6.0,1.0,0.0,6.0,1.0,1.0,Carrier Global
+169,https://careers.clevelandcliffs.com/diversity-and-inclusion/,3.0,3.0,0.0,1.0,2.0,2.0,0.0,0.0,Baker Hughes
+170,https://www.ussteel.com/inclusion-diversity,1.0,3.0,2.0,1.0,4.0,5.0,3.0,0.0,Cleveland-Cliffs
+171,https://jobs.bd.com/inclusion-and-diversity,4.0,6.0,2.0,2.0,2.0,3.0,7.0,0.0,United States Steel
+172,https://careers.carmax.com/us/en/diversity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Becton Dickinson
+173,https://corporate.sherwin-williams.com/sustainability/focus-areas/social-imprint/inclusion.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,CarMax
+174,https://www.bldr.com/join-our-team/diversity-equity-inclusion,10.0,7.0,1.0,0.0,3.0,0.0,4.0,0.0,Sherwin-Williams
+175,https://www.marsh.com/at/en/about/about-marsh/diversity-and-inclusion-marsh.html,1.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,Builders FirstSource
+176,https://www.pnc.com/en/about-pnc/corporate-responsibility/diversity-and-inclusion.html,4.0,7.0,1.0,2.0,3.0,2.0,2.0,1.0,Marsh & McLennan
+177,https://jobs.lumen.com/global/en/diversity-inclusion-belonging,2.0,2.0,0.0,0.0,0.0,1.0,2.0,2.0,PNC Financial Services Group
+178,https://www.avnet.com/wps/portal/us/about-avnet/corporate-social-responsibility/diversity-equity-inclusion/,7.0,7.0,1.0,0.0,0.0,1.0,1.0,1.0,Lumen Technologies
+179,https://www.tenethealth.com/careers/life-at-tenet,9.0,8.0,1.0,7.0,0.0,1.0,3.0,0.0,Avnet
+180,https://www.kimberly-clark.com/en-us/responsibility/diversity-and-inclusion,2.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,Tenet Healthcare
+181,http://interactive.kohls.com/diversity-inclusion,15.0,12.0,6.0,10.0,2.0,3.0,4.0,0.0,Kimberly-Clark
+182,https://www.blackrock.com/corporate/about-us/diversity-equity-and-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Kohl's
+183,https://www.us.jll.com/en/careers/diversity-inclusion,25.0,12.0,6.0,2.0,3.0,2.0,7.0,1.0,BlackRock
+184,https://www.lear.com/careers/diversity-equity-inclusion,19.0,3.0,0.0,6.0,4.0,7.0,0.0,0.0,Jones Lang LaSalle
+185,https://www.lincolnfinancial.com/public/aboutus/companyoverview/ourstrategy/diversityinclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Lear
+186,https://www.aboutschwab.com/diversity-and-inclusion,34.0,10.0,3.0,11.0,2.0,9.0,3.0,1.0,Lincoln National
+187,https://corp.rossstores.com/responsibility/empowering-our-associates/our-commitment-to-diversity/,9.0,1.0,4.0,3.0,4.0,3.0,1.0,1.0,Charles Schwab
+188,https://www.mastercard.us/en-us/vision/who-we-are/diversity-inclusion.html,5.0,3.0,0.0,0.0,0.0,2.0,0.0,0.0,Ross Stores
+189,https://filecache.investorroom.com/mr5ir_genuineparts/327/GPC%202021%20Sustainability%20Report%20Update%2011.1.pdf,16.0,8.0,4.0,1.0,3.0,10.0,7.0,0.0,Mastercard
+190,https://jobs.westrock.com/page/diversity-and-inclusion,8.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,Genuine Parts
+191,https://www.eogresources.com/culture,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,WestRock
+192,https://www.cognizant.com/us/en/about-cognizant/diversity-and-inclusion,7.0,9.0,2.0,7.0,6.0,4.0,1.0,0.0,EOG Resources
+193,https://www.modernatx.com/en-US/responsibility/our-commitment,0.0,2.0,0.0,0.0,0.0,3.0,4.0,0.0,Cognizant Technology Solutions
+194,https://stld.steeldynamics.com/talent-development/,0.0,2.0,0.0,0.0,0.0,3.0,4.0,0.0,Moderna
+195,https://www.hfsinclair.com/about-us/mission-and-values/default.aspx,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Steel Dynamics
+196,https://www.ti.com/corp/docs/company/flipbooks/diversity/index.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HF Sinclair
+197,https://www.emerson.com/en-us/careers/diversity-and-inclusion,19.0,8.0,1.0,3.0,8.0,1.0,4.0,0.0,Texas Instruments
+198,https://www.wesco.com/us/en/our-company/careers/inclusion-and-diversity.html,3.0,2.0,1.0,2.0,2.0,1.0,0.0,0.0,Emerson Electric
+199,https://www.generalmills.com/how-we-make-it/putting-people-first/global-inclusion-diversity,3.0,1.0,1.0,2.0,0.0,1.0,3.0,0.0,WESCO International
+200,https://jobs.tenneco.com/content/Inclusion-Diversity-and-Equity/?locale=en_US,5.0,4.0,4.0,0.0,0.0,1.0,0.0,0.0,General Mills
+201,https://www.wm.com/us/en/inside-wm/who-we-are/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tenneco
+202,https://www.viatris.com/en/careers/diversity-and-inclusion,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,Waste Management
+203,https://careers.dish.com/life/diversity-inclusion,6.0,7.0,1.0,2.0,3.0,3.0,2.0,0.0,Viatris
+204,https://www.l3harris.com/resources/l3harris-2021-diversity-equity-and-inclusion-annual-report,6.0,1.0,0.0,1.0,2.0,1.0,0.0,0.0,DISH Network
+205,https://dxc.com/us/en/about-us/inclusion-and-diversity,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,L3Harris Technologies
+206,https://jobs.smartrecruiters.com/Square/743999809476226-inclusion-and-diversity-program-manager,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,DXC Technology
+207,https://corporate.goodyear.com/us/en/responsibility/inspiring-culture/diversity-inclusion.html,6.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Block
+208,https://www.uber.com/us/en/about/diversity/,,,,,,,,,Goodyear Tire & Rubber
+209,https://www.colgatepalmolive.com/en-us/dei-home,3.0,2.0,0.0,1.0,0.0,2.0,1.0,0.0,Uber Technologies
+210,https://www.stanleyblackanddecker.com/impact/people/diversity-equity-inclusion,11.0,5.0,3.0,0.0,0.0,4.0,1.0,0.0,Colgate-Palmolive
+211,https://www.dupont.com/careers/diversity-and-inclusion.html,13.0,5.0,4.0,6.0,5.0,5.0,0.0,0.0,Stanley Black & Decker
+212,https://www.stryker.com/content/m/c/2020-comprehensive-annual-report/social-impact/diversity-equity-and-inclusion.html,2.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,DuPont
+213,https://www.nexteraenergy.com/sustainability/employees/diversity.html,20.0,9.0,1.0,0.0,6.0,4.0,2.0,0.0,Stryker
+214,https://www.targaresources.com/sustainability/social,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,NextEra Energy
+215,https://www.westerndigital.com/en-au/company/corporate-responsibility/people/diversity-inclusion,1.0,8.0,0.0,1.0,1.0,0.0,1.0,0.0,Targa Resources
+216,https://sustainability.ppg.com/Social/Diversity-Equity-and-Inclusion,31.0,9.0,0.0,7.0,2.0,7.0,0.0,0.0,Western Digital
+217,https://www.aep.com/careers/diversity,11.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,PPG Industries
+218,https://www.gapinc.com/en-us/values/equality-belonging,0.0,8.0,0.0,1.0,0.0,0.0,2.0,0.0,American Electric Power
+219,https://investors.bjs.com/sustainability/team-members/default.aspx,4.0,10.0,0.0,4.0,6.0,5.0,9.0,0.0,Gap
+220,https://www.rgare.com/about-rga/our-responsibility/our-culture,0.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,BJ's Wholesale Club
+221,https://www.kindermorgan.com/WWWKM/media/Documents/2020-ESG-Report.pdf,62.0,11.0,29.0,1.0,16.0,75.0,17.0,4.0,Reinsurance Group of America
+222,https://www.oneok.com/about-us/diversity-and-inclusion,6.0,1.0,0.0,2.0,3.0,1.0,0.0,1.0,Kinder Morgan
+223,https://www.expeditors.com/about-us/culture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Oneok
+224,https://www.amd.com/en/corporate-responsibility/diversity-belonging-inclusion,26.0,33.0,2.0,4.0,2.0,8.0,6.0,0.0,Expeditors Intl. of Washington
+225,https://www.fiserv.com/en/about-fiserv/diversity-inclusion.html,1.0,1.0,0.0,0.0,3.0,1.0,0.0,0.0,Advanced Micro Devices
+226,https://www.elcompanies.com/en/our-commitments/inclusion-diversity-equity,17.0,14.0,4.0,2.0,3.0,4.0,2.0,1.0,Fiserv
+227,https://www.bnymellon.com/us/en/about-us/diversity-inclusion.html,16.0,14.0,2.0,6.0,2.0,6.0,2.0,0.0,Estée Lauder
+228,https://careers.labcorp.com/global/en/diversity,6.0,3.0,4.0,2.0,5.0,0.0,0.0,0.0,Bank of New York Mellon
+229,https://www.regeneron.com/responsibility/diversity-inclusion,18.0,4.0,2.0,2.0,0.0,1.0,0.0,0.0,Laboratory Corp. of America
+230,https://careers.landolakesinc.com/us/en/inclusion,3.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,Regeneron Pharmaceuticals
+231,https://www.cheniere.com/csr/team/diversity,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,Land O'Lakes
+232,https://www.southwest.com/citizenship/people/diversity-equity-inclusion/,25.0,7.0,9.0,10.0,12.0,3.0,2.0,0.0,Cheniere Energy
+233,https://www.adobe.com/diversity.html,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southwest Airlines
+234,https://www.synchrony.com/diversity.html,19.0,5.0,2.0,2.0,0.0,1.0,2.0,0.0,Adobe
+235,https://www.corteva.com/who-we-are/inclusion-diversity-equity.html,1.0,1.0,3.0,0.0,0.0,1.0,0.0,0.0,Synchrony Financial
+236,https://www.fidelity.com/about-fidelity/our-company/diversityandinclusion,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Corteva
+237,https://careers.dteenergy.com/content/Diversity-and-Inclusion/?locale=en_US,11.0,7.0,3.0,3.0,5.0,4.0,3.0,0.0,Fidelity National Financial
+238,https://www.murphyoilcorp.com/diversity-inclusion/,3.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,DTE Energy
+239,https://www.halliburton.com/en/sustainability/annual-sustainability-report/social/diversity-equity-and-inclusion,3.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,Murphy USA
+240,https://www.adp.com/resources/diversity-equity-and-inclusion.aspx,8.0,4.0,4.0,1.0,1.0,5.0,0.0,0.0,Halliburton
+241,https://www.edison.com/home/sustainability/diversity-equity-inclusion.html,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Automatic Data Processing
+242,https://www.borgwarner.com/careers/who-we-are/diversity-inclusion,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Edison International
+243,https://www.nordstrom.com/browse/diversity-at-nordstrom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BorgWarner
+244,https://talent.lowes.com/us/en/diversity-inclusion,4.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,Nordstrom
+245,https://www.guardianlife.com/about-guardian/inclusion-and-diversity,6.0,4.0,0.0,5.0,5.0,6.0,2.0,0.0,Loews
+246,https://www.pxd.com/culture/diversity-inclusion,3.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,Guardian Life Ins. Co. of America
+247,https://autozone.referrals.selectminds.com/info/page3,0.0,2.0,0.0,0.0,5.0,4.0,0.0,0.0,Pioneer Natural Resources
+248,https://blog.lamresearch.com/five-ways-lam-is-committed-to-building-a-culture-of-inclusion-and-diversity/,4.0,3.0,0.0,3.0,0.0,0.0,1.0,0.0,AutoZone
+249,https://www.amfam.com/providing-support/diversity-and-inclusion,7.0,8.0,1.0,0.0,0.0,4.0,8.0,0.0,Lam Research
+250,https://www.itw.com/careers/diversity-inclusion/,11.0,6.0,3.0,1.0,1.0,2.0,0.0,0.0,American Family Insurance Group
+251,https://www.parker.com/portal/site/PARKER/menuitem.10cd5ec7157b826a66b049e1237ad1ca/?vgnextoid=46392a270ee5d310VgnVCM100000200c1dacRCRD&vgnextfmt=TR&careerreadmore=19dc01807ac3d310VgnVCM100000200c1dacRCRD&readmore=true&vgnextcat=Diversity+and+Inclusion&relatorId=6fdc01807ac3d310VgnVCM100000200c1dac____,1.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,Illinois Tool Works
+252,https://www.otis.com/en/us/our-company/diversity-and-inclusion,8.0,4.0,3.0,3.0,0.0,1.0,1.0,0.0,Parker-Hannifin
+253,https://www.omnicomgroup.com/culture/diversity/,4.0,2.0,1.0,3.0,0.0,2.0,0.0,0.0,Otis Worldwide
+254,https://www.principal.com/sustainability/global-inclusion,3.0,5.0,1.0,0.0,0.0,2.0,0.0,0.0,Omnicom Group
+255,https://www.dominionenergy.com/our-company/employee-experience/diversity-and-inclusion,5.0,8.0,0.0,1.0,7.0,3.0,3.0,0.0,Principal Financial
+256,https://www.kelloggdiversityandinclusion.com/en_US/home.html,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,Dominion Energy
+257,"https://www.glassdoor.com/FAQ/Fluor-Diversity-And-Inclusion-Questions-EI_IE262.0,5_KC6,29.htm",4.0,0.0,0.0,0.0,4.0,1.0,0.0,1.0,Kellogg
+258,https://aecom.com/about-us/equity-diversity-inclusion/,1.0,0.0,0.0,3.0,4.0,3.0,1.0,0.0,Fluor
+259,https://www.rsac.com/our-culture/,0.0,5.0,0.0,0.0,0.0,0.0,5.0,1.0,AECOM
+260,https://www.jacobs.com/about/inclusion-and-diversity,14.0,5.0,4.0,3.0,2.0,1.0,0.0,0.0,Reliance Steel & Aluminum
+261,https://www.corning.com/worldwide/en/sustainability/people/diversity.html,10.0,27.0,4.0,3.0,3.0,3.0,1.0,1.0,Jacobs Engineering Group
+262,https://www.farmers.com/careers/diversity-inclusion/,13.0,6.0,7.0,0.0,3.0,1.0,16.0,0.0,Corning
+263,https://www.qurateretailgroup.com/lp/diversity-equity-inclusion/,19.0,5.0,9.0,3.0,1.0,0.0,2.0,0.0,Farmers Insurance Exchange
+264,https://www.pacificlife.com/home/corporate-social-responsibility/diversity-equity-inclusion.html,8.0,3.0,0.0,3.0,0.0,2.0,4.0,0.0,Qurate Retail
+265,https://pultegroupcares.com/diversity-inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Pacific Life
+266,https://careers.fisglobal.com/us/en/inclusion-diversity,1.0,2.0,1.0,1.0,0.0,5.0,1.0,0.0,PulteGroup
+267,https://www.iqvia.com/about-us/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fidelity National Information Services
+268,https://www.marriott.com/diversity/diversity-and-inclusion.mi,2.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,IQVIA Holdings
+269,https://www.berryglobal.com/sustainability/sustainability-strategy/global-diversity,3.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,Marriott International
+270,https://www.ball.com/careers/diversity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Berry Global Group
+271,https://www.group1auto.com/womens-initiative.html,1.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,Ball
+272,https://www.leidos.com/company/inclusion-and-diversity,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Group 1 Automotive
+273,https://www.aboutwayfair.com/dei,3.0,3.0,0.0,3.0,0.0,1.0,3.0,1.0,Leidos Holdings
+274,https://www.coned.com/en/about-us/diversity,0.0,4.0,0.0,0.0,0.0,2.0,0.0,0.0,Wayfair
+275,https://www.ameriprise.com/about/diversity-equity-inclusion,6.0,2.0,8.0,2.0,3.0,2.0,0.0,2.0,Consolidated Edison
+276,https://my.xcelenergy.com/s/about/company-diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ameriprise Financial
+277,https://www.comparably.com/companies/o-reilly-auto-parts/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Xcel Energy
+278,https://careers.globalp.com/us/en/diversityandinclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,O'Reilly Automotive
+279,https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2022/Discover-Releases-Its-First-Diversity-Equity--Inclusion-Report/default.aspx,6.0,6.0,0.0,2.0,1.0,0.0,1.0,0.0,Global Partners
+280,https://www.rocketcompanies.com/our-team/diversity-equity-and-inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Discover Financial Services
+281,https://www.lkqcorp.com/wp-content/uploads/2020/10/LKQCorp_COE_Booklet_10-2020_web.pdf,,,,,,,,,Rocket Companies
+282,https://graingeresg.com/people-and-purpose/diversity-equity-inclusion/,6.0,6.0,0.0,0.0,2.0,1.0,0.0,0.0,LKQ
+283,https://www.quantaservices.com/careers/diversity-inclusion/,1.0,1.0,3.0,3.0,9.0,1.0,2.0,0.0,W.W. Grainger
+284,https://www.crowncork.com/sustainability/social/diversity-inclusion,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Quanta Services
+285,https://foxcareers.com/LifeAtFox/DiversityandInclusion,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Crown Holdings
+286,https://www.sempra.com/performance/high-performing-culture/diversity-and-inclusion,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,Fox
+287,https://www.markel.com/insurance/careers-at-markel/diversity-and-inclusion,4.0,2.0,0.0,1.0,2.0,1.0,0.0,0.0,Sempra
+288,https://www.carvana.com/careers/culture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Markel
+289,https://belong.xpo.com/,8.0,3.0,0.0,2.0,3.0,0.0,1.0,0.0,Carvana
+290,https://www.baxter.com/careers/diversity-equity-inclusion,9.0,3.0,0.0,2.0,7.0,5.0,1.0,2.0,XPO Logistics
+291,https://www.ecolab.com/corporate-responsibility/social/diversity-equity-and-inclusion,6.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,Baxter International
+292,https://corporate.tractorsupply.com/ESG/diversity-and-inclusion/default.aspx,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Ecolab
+293,https://andersonuniversity.edu/campus-life/diversity-inclusion,2.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,Tractor Supply
+294,https://careers.keurigdrpepper.com/our-culture,3.0,1.0,2.0,0.0,0.0,2.0,4.0,0.0,Andersons
+295,https://uhs.com/about-uhs/environmental-social-and-governance/our-commitment-to-social-causes/,6.0,2.0,3.0,3.0,8.0,4.0,11.0,0.0,Keurig Dr Pepper
+296,https://www.csx.com/index.cfm/working-at-csx/learn-more-about-csx/diversity-equity-and-inclusion/,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,Universal Health Services
+297,https://www.henryschein.com/us-en/corporate/diversity.aspx,13.0,15.0,3.0,9.0,0.0,4.0,4.0,0.0,CSX
+298,https://www.sonicautomotive.com/our-culture-and-values.htm,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,Henry Schein
+299,https://www.ebayinc.com/company/diversity-equity-inclusion/,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,Sonic Automotive
+300,https://www.textron.com/assets/CR/2020/DiversityInclusionBelonging.html,18.0,12.0,4.0,2.0,8.0,3.0,4.0,1.0,eBay
+301,https://www.edwardjones.com/us-en/why-edward-jones/about-us/corporate-citizenship/inclusion-diversity-equity-commitments,3.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,Textron
+302,https://www.chs.net/serving-communities/diversity-equity-inclusion/,7.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,Jones Financial (Edward Jones)
+303,https://mosaicproject.org/programs/mosaic-consulting-project/diversity-inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Community Health Systems
+304,https://www.thorindustries.com/diversityandinclusion,1.0,2.0,0.0,0.0,0.0,1.0,0.0,1.0,Mosaic
+305,https://www.dickssportinggoods.jobs/inclusion/,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,Thor Industries
+306,https://www.newmont.com/sustainability/sustainability-reporting/Diversity-Equity-and-Inclusion,3.0,11.0,0.0,1.0,0.0,2.0,1.0,0.0,Dick's Sporting Goods
+307,https://www.devonenergy.com/sustainability/workforce/diversity-equity-inclusion,4.0,15.0,0.0,2.0,0.0,3.0,1.0,0.0,Newmont
+308,https://deadline.com/2022/09/warner-bros-discovery-restructures-diversity-equity-inclusion-group-new-exec-roster-1235123008/,2.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,Devon Energy
+309,https://careers.jbhunt.com/culture-and-programs/inclusion,5.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,Warner Bros. Discovery
+310,https://www.alcoa.com/careers/en/inclusion-diversity,11.0,14.0,1.0,9.0,0.0,1.0,0.0,0.0,J.B. Hunt Transport Services
+311,https://kiewitcareers.kiewit.com/Kiewit/job/Burnaby-Engineering-Intern-WCD-2023-Brit/939714000/,0.0,0.0,1.0,0.0,2.0,3.0,1.0,0.0,Alcoa
+312,https://careers.aramark.com/diversity-equity-inclusion/,15.0,5.0,1.0,6.0,3.0,9.0,6.0,11.0,Peter Kiewit Sons'
+313,https://vistracorp.com/diversity-equity-and-inclusion/,15.0,5.0,1.0,6.0,3.0,9.0,6.0,11.0,Aramark
+314,https://www.statestreet.com/values/inclusion-diversity.html,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Vistra
+315,https://www.unum.com/about/newsroom/2022/April/Forbes-Best-Employers-for-Diversity,3.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,State Street
+316,https://sites.allegheny.edu/diversity/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unum Group
+317,https://www.bostonscientific.com/en-US/careers/working-here/diversity-and-inclusion.html,9.0,5.0,0.0,2.0,1.0,2.0,0.0,1.0,Alleghany
+318,http://www.westlake.com/people-community,2.0,2.0,0.0,0.0,0.0,1.0,3.0,0.0,Boston Scientific
+319,https://www.entergy.com/about-us/diversity-inclusion/,16.0,8.0,3.0,1.0,1.0,3.0,1.0,0.0,Westlake
+320,https://www.iff.com/responsibilities/diversity-equity-inclusion,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,Entergy
+321,https://careers.davita.com/diversity-belonging,6.0,2.0,0.0,1.0,0.0,0.0,3.0,0.0,International Flavors & Fragrances
+322,https://www.mutualofomaha.com/about/diversity-equity-inclusion,1.0,1.0,1.0,0.0,0.0,1.0,2.0,1.0,DaVita
+323,https://www.assurant.com/our-story/diversity,3.0,12.0,2.0,2.0,0.0,0.0,1.0,0.0,Mutual of Omaha Insurance
+324,https://www.libertymedia.com/esg/talent-culture,3.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,Assurant
+325,https://www.hormelfoods.com/about/diversity-and-inclusion/,11.0,3.0,2.0,4.0,3.0,6.0,10.0,0.0,Liberty Media
+326,https://www.ielp.com/,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,Hormel Foods
+327,https://www.republicservices.com/sustainability/people,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Icahn Enterprises
+328,https://mohawkind.com/_pdf/Mohawk_2020_ESG_Report.pdf,5.0,15.0,7.0,1.0,2.0,13.0,13.0,0.0,Republic Services
+329,https://www.conagrabrands.com/diversity-inclusion,29.0,6.0,6.0,2.0,2.0,6.0,2.0,0.0,Mohawk Industries
+330,http://www.nscorp.com/content/nscorp/en/inclusion-and-diversity.html,0.0,1.0,2.0,1.0,3.0,1.0,0.0,0.0,Conagra Brands
+331,https://www.aes.org/community/diversity/,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Norfolk Southern
+332,https://careers.agcocorp.com/content/Diversity-and-Inclusion/?locale=en_US,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,AES
+333,https://www.caesars.com/careers/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,AGCO
+334,https://equitable.com/about-us/diversity-and-inclusion,1.0,0.0,1.0,2.0,0.0,2.0,0.0,0.0,Caesars Entertainment
+335,https://www.advanceautoparts.jobs/page/inclusion,16.0,4.0,2.0,4.0,0.0,0.0,2.0,0.0,Equitable Holdings
+336,https://www.biogen.com/en_us/diversity-inclusion.html,22.0,6.0,1.0,5.0,0.0,2.0,2.0,1.0,Advance Auto Parts
+337,https://www.auto-owners.com/diversity-inclusion,0.0,0.0,1.0,0.0,0.0,1.0,2.0,0.0,Biogen
+338,https://www.bookingholdings.com/cr-cards/diversity-inclusion-and-belonging-2021/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Auto-Owners Insurance
+339,https://amphenol.com/docs/DEI-policy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Booking Holdings
+340,https://www.questdiagnostics.com/our-company/inclusion-diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Amphenol
+341,https://www.firstenergycorp.com/careers/diversity_inclusion.html,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Quest Diagnostics
+342,https://business.linkedin.com/talent-solutions/diversity-equity-inclusion#explore,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,FirstEnergy
+343,https://www.ally.com/about/social-impact/diversity-inclusion/,23.0,7.0,1.0,1.0,1.0,2.0,4.0,0.0,DCP Midstream
+344,https://www.delekus.com/wp-content/uploads/2020/09/2020-09-24-DEI-Policy-FINAL-website.pdf,,,,,,,,,Ally Financial
+345,https://www.williams.com/our-company/diversity-inclusion/,2.0,2.0,0.0,0.0,3.0,0.0,0.0,0.0,Delek US Holdings
+346,https://careers.newellbrands.com/us/en/diversity-inclusion,14.0,5.0,1.0,0.0,1.0,1.0,1.0,0.0,Williams
+347,https://www.eastman.com/en/who-we-are/inclusion-diversity,4.0,4.0,0.0,1.0,7.0,2.0,0.0,0.0,Newell Brands
+348,https://www.airproducts.com/company/diversity,14.0,6.0,0.0,0.0,0.0,1.0,1.0,0.0,Eastman Chemical
+349,https://www.thrivent.com/careers/diversity-and-inclusion,1.0,1.0,1.0,0.0,1.0,3.0,1.0,0.0,Air Products & Chemicals
+350,https://www.molsoncoors.com/diversity,5.0,4.0,1.0,0.0,0.0,5.0,0.0,0.0,Thrivent Financial for Lutherans
+351,https://www.interpublic.com/our-values/diversity-inclusion/,16.0,9.0,1.0,9.0,0.0,3.0,1.0,0.0,Molson Coors Beverage
+352,https://www.weyerhaeuser.com/company/values/inclusion/,5.0,6.0,2.0,2.0,1.0,6.0,1.0,0.0,Interpublic Group
+353,https://www.alticeusa.com/diversity-inclusion,9.0,2.0,3.0,1.0,1.0,1.0,1.0,0.0,Weyerhaeuser
+354,https://www.raymondjames.com/advisor-opportunities/practice-insights/diversity-and-inclusion,9.0,6.0,1.0,8.0,3.0,4.0,1.0,0.0,Altice USA
+355,https://www.emcorgroup.com/application/files/2515/7409/4811/EME_Global_Human_Rights_Policy_190701.pdf,3.0,3.0,0.0,1.0,1.0,8.0,2.0,2.0,Raymond James Financial
+356,https://jobs.eversource.com/diversity-and-inclusion,5.0,2.0,0.0,0.0,6.0,5.0,0.0,0.0,EMCOR Group
+357,https://ir.yumchina.com/news-releases/news-release-details/yum-china-joins-ssga-gender-diversity-index,1.0,8.0,2.0,0.0,0.0,7.0,0.0,0.0,Eversource Energy
+358,https://www.autonews.com/dealers/asbury-taps-consultant-craft-diversity-program,3.0,6.0,1.0,0.0,2.0,0.0,2.0,0.0,Yum China Holdings
+359,https://www.owens-minor.com/about/diversity-inclusion/,4.0,2.0,0.0,2.0,5.0,1.0,0.0,0.0,Asbury Automotive Group
+360,https://corporate.pseg.com/careers/diversityandinclusionpage,0.0,6.0,1.0,0.0,0.0,0.0,7.0,0.0,Owens & Minor
+361,https://jobs.unitedrentals.com/creative/diversity,1.0,10.0,3.0,0.0,11.0,1.0,2.0,0.0,Public Service Enterprise Group
+362,https://www.mgmresorts.com/en/company/esg/fostering-diversity-equity-and-inclusion/diverse-and-inclusive-culture.html,4.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,United Rentals
+363,https://ryder.com/careers/working-here/topic-collection/diversity-and-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MGM Resorts International
+364,https://www.intuit.com/company/corporate-responsibility/diversity/,47.0,23.0,1.0,9.0,1.0,2.0,0.0,2.0,Ryder System
+365,https://www.comparably.com/companies/cincinnati-financial-corporation/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Intuit
+366,https://www.erieinsurance.com/careers/diversity,5.0,3.0,1.0,0.0,1.0,5.0,4.0,0.0,Cincinnati Financial
+367,https://www.univarsolutions.com/diversity-and-inclusion,9.0,4.0,1.0,2.0,2.0,3.0,1.0,0.0,Erie Insurance Group
+368,https://huntingtoningalls.com/employees/diversity/,0.0,0.0,0.0,9.0,1.0,1.0,1.0,0.0,Univar Solutions
+369,https://www.berkleyfs.com/diversity-inclusion/,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Huntington Ingalls Industries
+370,https://www.westernsouthern.com/about/leadership,0.0,2.0,4.0,0.0,0.0,5.0,2.0,0.0,W.R. Berkley
+371,https://www.insight.com/en_US/about/diversity-and-inclusion.html,6.0,11.0,4.0,2.0,2.0,2.0,1.0,0.0,Western & Southern Financial Group
+372,https://newscorp.com/news-corp-diversity/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Insight Enterprises
+373,https://www.americantower.com/us/careers/inclusion.html,3.0,3.0,1.0,0.0,2.0,1.0,3.0,0.0,News Corp.
+374,https://s2.q4cdn.com/382431122/files/doc_downloads/2021/03/2021-ORI-Sustainability-Report-Final-(3.25.21).pdf,4.0,8.0,12.0,1.0,6.0,9.0,10.0,1.0,American Tower
+375,https://www.burlington.com/about/id/,3.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,Old Republic International
+376,https://www.avisbudgetgroup.jobs/en/diversity/,6.0,5.0,2.0,0.0,0.0,1.0,0.0,0.0,Burlington Stores
+377,https://www.odpbusiness.com/l/prelogin/supplier-diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Avis Budget Group
+378,https://www.vfc.com/our-company/inclusion-diversity-hidden-98qweyfd9,11.0,7.0,3.0,6.0,3.0,1.0,0.0,0.0,ODP
+379,https://bedbathandbeyond.gcs-web.com/news-releases/news-release-details/bed-bath-beyond-continues-commitment-its-esg-strategy-appointing,3.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,VF
+380,https://www.seaboardcorp.com/culture/,0.0,1.0,2.0,0.0,0.0,0.0,3.0,0.0,Bed Bath & Beyond
+381,https://www.firstam.com/news/2020/faf-diversity-equity-and-inclusion-council-20210211.html,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,Seaboard
+382,https://www.ice.com/about/corporate-responsibility/ratings-research/employees/diversity,17.0,4.0,1.0,0.0,0.0,1.0,0.0,0.0,First American Financial
+383,https://www.pvh.com/company/inclusion-diversity,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Intercontinental Exchange
+384,https://www.apollo.com/media/press-releases/2022/02-07-2022-133154658,1.0,2.0,0.0,0.0,4.0,2.0,0.0,0.0,PVH
+385,https://www.jefferies.com/DiversityAndInclusion/Diversity-and-Inclusion/2/2797,1.0,2.0,0.0,0.0,4.0,2.0,0.0,0.0,Apollo Global Management
+386,https://www.thehersheycompany.com/en_us/home/sustainability/sustainability-focus-areas/diversity-equity-inclusion.html,4.0,7.0,0.0,1.0,0.0,2.0,2.0,0.0,Jefferies Financial Group
+387,https://www.nvrdc.org/inclusion-policy,6.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,Hershey
+388,https://investors.footlocker-inc.com/esg/opportunity,13.0,12.0,9.0,1.0,19.0,6.0,14.0,0.0,NVR
+389,https://global.dana.com/corporate-pages/careers/inclusion-and-diversity,13.0,12.0,9.0,1.0,19.0,6.0,14.0,0.0,Foot Locker
+390,https://careers.spartannash.com/creative/about-diversity,1.0,3.0,1.0,1.0,6.0,1.0,4.0,0.0,Dana
+391,https://olin.com/careers/working-at-olin/,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,SpartanNash
+392,https://www.comparably.com/companies/chewy/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Olin
+393,https://www.jackson.com/the-jackson-difference/diversity-and-inclusion.html,3.0,2.0,1.0,6.0,1.0,2.0,1.0,0.0,Chewy
+394,https://www.activisionblizzard.com/diversity-inclusion,3.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,Jackson Financial
+395,https://www.tollbrothers.com/esg/social-diversity-inclusion,8.0,6.0,0.0,4.0,6.0,0.0,2.0,0.0,Activision Blizzard
+396,https://www.carlyle.com/diversity,14.0,3.0,0.0,1.0,0.0,5.0,1.0,0.0,Toll Brothers
+397,https://www.comparably.com/companies/graybar-electric/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Carlyle Group
+398,https://sustainability.ovintiv.com/social/diversity-equity-and-inclusion/,1.0,5.0,0.0,1.0,0.0,0.0,9.0,0.0,Graybar Electric
+399,https://www.ufpi.com/-/media/project/ufpi/ufpi/sustainability/ufp-esg-disclosure.pdf,1.0,3.0,5.0,0.0,11.0,12.0,10.0,2.0,Ovintiv
+400,https://www.ulta.com/company/dei,10.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,UFP Industries
+401,https://www.cbrands.com/responsibility/diversity,9.0,6.0,0.0,2.0,0.0,1.0,4.0,0.0,Ulta Beauty
+402,https://www.expediagroup.com/who-we-are/inclusion-and-diversity/default.aspx,3.0,4.0,2.0,2.0,1.0,4.0,8.0,2.0,Constellation Brands
+403,https://www.commscope.com/press-releases/2022/commscope-joins-the-ceo-action-to-advance-diversity-and-inclusion-in-the-workplace/,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,Expedia Group
+404,https://www.celanese.com/en/about-us/who-we-are/diversity-equity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,CommScope Holding
+405,https://www.globalpayments.com/about-us/inclusion-and-diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Celanese
+406,https://www.owenscorning.com/en-us/corporate/inclusion-diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Global Payments
+407,https://careers.campbellsoupcompany.com/us/en/inclusion-diversity,1.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,Owens Corning
+408,https://healthcare.utah.edu/huntsmancancerinstitute/about-us/equity-diversity-inclusion.php,2.0,1.0,0.0,2.0,0.0,0.0,1.0,0.0,Campbell Soup
+409,https://www.franklinresources.com/about-us/diversity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Huntsman
+410,https://www.averydennison.com/en/home/about-us/diversity-and-inclusion.html,10.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,Franklin Resources
+411,https://masco.com/diversity-inclusion/,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,Avery Dennison
+412,https://www.centerpointenergy.com/en-us/corp/pages/values-diversity.aspx,2.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,Masco
+413,https://www.53.com/content/fifth-third/en/personal-banking/about/diversity-at-fifth-third.html,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,CenterPoint Energy
+414,https://www.wecenergygroup.com/careers/career_diversity.htm,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Fifth Third Bancorp
+415,https://www.spglobal.com/en/who-we-are/diversity-equity-inclusion/,11.0,6.0,2.0,4.0,8.0,2.0,4.0,0.0,WEC Energy Group
+416,https://jobs.fmglobalcareers.com/diversity,4.0,3.0,2.0,0.0,0.0,1.0,0.0,1.0,S&P Global
+417,https://www.ceoaction.com/actions/geared-for-good/,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,FM Global
+418,https://sustainability.williams-sonomainc.com/2020/03/06/innovation-inclusion-equality/,6.0,15.0,0.0,10.0,0.0,2.0,5.0,0.0,Polaris
+419,https://www.autoliv.com/careers/diversity-and-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Williams-Sonoma
+420,https://www.ajg.com/us/about-us/inclusion-diversity/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Autoliv
+421,https://www.motorolasolutions.com/en_us/about/diversity-equity-inclusion.html,33.0,4.0,5.0,2.0,4.0,10.0,1.0,0.0,Arthur J. Gallagher
+422,https://www.zillow.com/careers/equity-belonging/,17.0,9.0,2.0,1.0,1.0,6.0,8.0,0.0,Motorola Solutions
+423,https://www.opensesame.com/site/blog/opendoors-helps-your-organization-strengthen-diversity-and-inclusion/,8.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,Zillow Group
+424,https://www.jmsmucker.com/about/inclusion-diversity-equity,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,Opendoor Technologies
+425,https://www.anywhere.re/blog-posts/anywhere-sm-named-to-forbes-world-s-top-female-friendly-companies-list-for-second-year-in-a-row,4.0,24.0,0.0,0.0,0.0,3.0,2.0,0.0,J.M. Smucker
+426,https://www.oshkoshcorp.com/story/diversity,6.0,5.0,0.0,1.0,0.0,1.0,1.0,0.0,Anywhere Real Estate
+427,https://www.mastecnetworksolutions.com/en/about/corporate-social-responsibility.aspx,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,Oshkosh
+428,https://gxo.com/about-gxo/dei/,0.0,0.0,3.0,0.0,2.0,1.0,0.0,1.0,MasTec
+429,https://www.apa.org/about/apa/equity-diversity-inclusion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GXO Logistics
+430,https://www.bc.com/diversity-equity-and-inclusion/,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,APA
+431,https://www.dovercorporation.com/sustainability/social/diversity-and-inclusion,3.0,13.0,0.0,3.0,10.0,3.0,1.0,0.0,Boise Cascade
+432,https://www.genworth.com/about-us/building-careers/diversity-and-inclusion.html,1.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,Dover
+433,https://www.bbwinc.com/corporate-responsibility/inclusion/overview,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Genworth Financial
+434,https://www.boozallen.com/about/diversity-equity-and-inclusion.html,2.0,3.0,1.0,1.0,18.0,2.0,4.0,0.0,Bath & Body Works
+435,https://www.coinbase.com/careers/belonging-at-coinbase,10.0,1.0,3.0,1.0,3.0,1.0,2.0,0.0,Booz Allen Hamilton Holding
+436,https://www.zimmerbiomet.com/en/corporate/zimmer-biomet-commitments.html,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Coinbase Global
+437,https://www.wabteccorp.com/sustainability/empowering-people-and-communities,5.0,3.0,1.0,0.0,2.0,6.0,11.0,0.0,Zimmer Biomet Holdings
+438,https://www.zoetis.com/join-us/diversity-equity-inclusion,11.0,3.0,1.0,1.0,0.0,2.0,1.0,0.0,Westinghouse Air Brake Technologies
+439,https://www.packagingcorp.com/supplier-diversity-statement,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Zoetis
+440,https://www.lpl.com/about-Us/social-responsibility/diversity-and-inclusion.html,3.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,Packaging Corp. of America
+441,https://www.troweprice.com/corporate/us/en/what-sets-us-apart/Diversity-and-inclusion.html,2.0,3.0,0.0,1.0,1.0,0.0,0.0,1.0,LPL Financial Holdings
+442,https://www.fbhs.com/corporate-responsibility/our-communities/diversity-equity-inclusion/,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,T. Rowe Price
+443,https://www.csnews.com/caseys-recognized-its-gender-balanced-board-directors,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,Fortune Brands Home & Security
+444,https://www.salary.com/research/salary/employer/a-mark-precious-metals-inc/diversity-equity-and-inclusion-specialist-ii-salary,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,Casey's General Stores
+445,https://www.hess.com/sustainability/diversity-and-inclusion,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,A-Mark Precious Metals
+446,https://www.vrtx.com/careers/inclusion-diversity-and-equity,11.0,5.0,1.0,2.0,0.0,3.0,3.0,0.0,Hess
+447,https://www.key.com/about/diversity/diversity-and-inclusion.html,2.0,6.0,3.0,1.0,4.0,1.0,1.0,0.0,Vertex Pharmaceuticals
+448,https://newsroom.chipotle.com/featured-content?item=24,15.0,2.0,0.0,1.0,0.0,3.0,1.0,0.0,KeyCorp
+449,https://www.consumersenergy.com/company/careers/diversity-and-inclusion,9.0,3.0,2.0,3.0,2.0,1.0,1.0,0.0,Chipotle Mexican Grill
+450,https://www.arconic.com/social/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,CMS Energy
+451,https://newsroom.taylormorrison.com/2020-01-23-Taylor-Morrison-Only-U-S-Homebuilder-Recognized-for-Workplace-Diversity-on-Bloomberg-Gender-Equality-Index-GEI,0.0,13.0,1.0,0.0,0.0,2.0,6.0,0.0,Arconic
+452,https://www.afginc.com/about-us/corporate-social-responsibility,2.0,0.0,2.0,0.0,0.0,7.0,2.0,0.0,Taylor Morrison Home
+453,https://www.ugi.com/blog/ugi-advances-its-belonging-inclusion-diversity-equity-imperative/,3.0,1.0,0.0,1.0,1.0,0.0,2.0,0.0,American Financial Group
+454,https://www.saic.com/who-we-are/life-at-saic/diversity-equity-and-inclusion,4.0,2.0,1.0,1.0,2.0,4.0,1.0,0.0,UGI
+455,https://www.avantorsciences.com/pages/en/diversity-equity-and-inclusion,1.0,1.0,2.0,1.0,1.0,2.0,1.0,0.0,Science Applications International
+456,https://hbisustains.com/diversity-inclusion/,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Avantor
+457,https://www.thecloroxcompany.com/company/idea/,10.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,Hanesbrands
+458,https://www.kbr.com/en/who-we-are/our-people/inclusion-and-diversity,4.0,7.0,0.0,2.0,1.0,0.0,0.0,1.0,Clorox
+459,https://cstoredecisions.com/2020/06/24/travelcenters-of-america-ceo-commits-to-diversity-and-inclusion-in-letter-to-employees/,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,KBR
+460,https://www.hertzcareers.com/diversity-and-inclusion,1.0,1.0,0.0,0.0,1.0,1.0,2.0,0.0,TravelCenters of America
+461,https://www.analog.com/en/company/environment-social-governance/focus-areas/diversity-inclusion.html,11.0,9.0,0.0,0.0,1.0,0.0,0.0,0.0,Hertz Global Holdings
+462,https://www.securian.com/about-us/diversity-inclusion.html,7.0,7.0,3.0,0.0,2.0,2.0,2.0,1.0,Analog Devices
+463,https://www.darden.com/our-impact/team-members/ensuring-an-inclusive-and-diverse-culture,30.0,17.0,1.0,5.0,4.0,4.0,5.0,1.0,Securian Financial Group
+464,https://www.graphicpkg.com/news/faces-of-gpi-womengpi/,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Darden Restaurants
+465,https://www.ncr.com/about/esg/diversity-equity-inclusion,4.0,4.0,2.0,1.0,5.0,0.0,0.0,0.0,Graphic Packaging Holding
+466,https://www.brighthousefinancial.com/about-us/corporate-responsibility/,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,NCR
+467,https://www.pplweb.com/careers/inclusion-and-diversity/,8.0,4.0,0.0,1.0,0.0,0.0,0.0,0.0,Brighthouse Financial
+468,https://www.cintascares.com/diversity-and-inclusion/,6.0,5.0,8.0,0.0,11.0,1.0,1.0,0.0,PPL
+469,https://www.xerox.com/en-us/jobs/diversity,9.0,8.0,2.0,2.0,2.0,1.0,1.0,0.0,Cintas
+470,https://www.rockwellautomation.com/en-us/company/about-us/sustainability/culture-inclusion-diversity.html,4.0,11.0,2.0,1.0,0.0,0.0,0.0,0.0,Xerox Holdings
+471,https://www.citizensbank.com/diversity-equity-and-inclusion/default.aspx,,,,,,,,,Rockwell Automation
+472,https://www.kla.com/company/inclusion-diversity,17.0,8.0,1.0,1.0,5.0,1.0,1.0,0.0,Citizens Financial Group
+473,https://www.campingworldjobs.com/social-responsibility/diversity-in-hiring.aspx,0.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,KLA
+474,https://www.ingredion.com/na/en-us/company/meet-ingredion/diversity-equity-inclusion.html,4.0,3.0,0.0,0.0,0.0,2.0,1.0,0.0,Camping World Holdings
+475,https://s2.q4cdn.com/507213534/files/doc_financials/2020/Veritiv_CSRR.pdf,1.0,2.0,8.0,0.0,4.0,16.0,2.0,2.0,Ingredion
+476,https://www.becn.com/corporate-responsibility/social,2.0,9.0,0.0,0.0,8.0,0.0,1.0,0.0,Veritiv
+477,https://www.diamondbackenergy.com/static-files/faf5ab25-5ab5-4404-8c04-c7bd387ae418,,,,,,,,,Beacon Roofing Supply
+478,https://www.victoriassecretandco.com/corporate-responsibility/inclusion/our-diversity-equity-and-inclusion-strategy,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,Diamondback Energy
+479,http://corporate.academy.com/wp-content/uploads/2020/08/academy-2020-esg-progress-statement.pdf,9.0,5.0,2.0,1.0,2.0,7.0,9.0,1.0,Victoria's Secret
+480,https://www.sanmina.com/careers/our-culture/,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Academy Sports and Outdoors
+481,https://www.onsemi.com/company/environmental-social-and-governance/diversity-equity-and-inclusion,8.0,10.0,0.0,1.0,3.0,4.0,1.0,0.0,Sanmina
+482,https://www.cmc.com/en-us/our-company/social,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,ON Semiconductor
+483,https://sustainability.enlink.com/diversity-equity-and-inclusion/,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Commercial Metals
+484,https://www.swn.com/responsibility/workforce/workplace-respect-diversity-and-inclusion/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,EnLink Midstream
+485,https://sustainability.equinix.com/social/building-a-diverse-and-inclusive-culture/,43.0,19.0,2.0,14.0,4.0,9.0,3.0,4.0,Southwestern Energy
+486,https://careers.dillards.com/Careers/information/diversity,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Equinix
+487,https://www.regions.com/about-regions/diversity-equity-inclusion,0.0,6.0,0.0,1.0,0.0,0.0,0.0,0.0,Dillard's
+488,http://citizenship.yum.com/people/diversity-inclusion.asp,4.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,Regions Financial
+489,https://www.landstar.com/corporate-information/corporate-responsibility/network/,2.0,4.0,2.0,1.0,4.0,11.0,4.0,0.0,Yum Brands
+490,https://www.cfindustries.com/globalassets/cf-industries/media/documents/reports/cf-industries-2021-inclusion-diversity-equity-report.pdf,22.0,10.0,0.0,0.0,1.0,2.0,0.0,0.0,Landstar System
+491,https://www.northerntrust.com/united-states/about-us/corporate-social-responsibility/diversity-and-inclusion,10.0,3.0,2.0,5.0,3.0,1.0,6.0,0.0,CF Industries Holdings
+492,https://www.roberthalf.com/about-robert-half/environmental-social-governance/diversity-commitment,1.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,Northern Trust
+493,https://www.compass.com/diversity-inclusion/,5.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,Robert Half International
+494,https://csr.hasbro.com/en-us/diversity-inclusion,3.0,7.0,0.0,0.0,0.0,1.0,2.0,0.0,Compass
+495,https://ropercorp.com/about/inclusion-diversity/,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Hasbro
+496,https://www.salary.com/research/salary/employer/arko-corp/diversity-equity-and-inclusion-specialist-i-salary,1.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,Roper Technologies
+497,https://frontier.com/corporate/company/supplier-diversity,2.0,1.0,0.0,2.0,5.0,0.0,0.0,0.0,ARKO
+498,https://www.ameren.com/company/careers/diversity,6.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Frontier Communications
+499,https://www.o-i.com/sustainability/diversity-and-inclusion/,6.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Ameren
